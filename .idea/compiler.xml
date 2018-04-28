@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ssm-common" />
+        <module name="ssm-console" />
+        <module name="ssm-dao" />
+        <module name="ssm-interface" />
+        <module name="ssm-pojo" />
+        <module name="ssm-service-crud" />
+        <module name="ssminterface" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="father" target="1.8" />
+      <module name="ssm-common" target="1.8" />
+      <module name="ssm-console" target="1.8" />
+      <module name="ssm-dao" target="1.8" />
+      <module name="ssm-interface" target="1.8" />
+      <module name="ssm-manager" target="1.8" />
+      <module name="ssm-pojo" target="1.8" />
+      <module name="ssm-service-crud" target="1.8" />
+      <module name="ssminterface" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

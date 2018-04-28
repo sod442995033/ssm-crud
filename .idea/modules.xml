@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/father.iml" filepath="$PROJECT_DIR$/father.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-common/ssm-common.iml" filepath="$PROJECT_DIR$/ssm-common/ssm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manager/ssm-console/ssm-console.iml" filepath="$PROJECT_DIR$/ssm-manager/ssm-console/ssm-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manager/ssm-dao/ssm-dao.iml" filepath="$PROJECT_DIR$/ssm-manager/ssm-dao/ssm-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manager/ssm-interface/ssm-interface.iml" filepath="$PROJECT_DIR$/ssm-manager/ssm-interface/ssm-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manager/ssm-manager.iml" filepath="$PROJECT_DIR$/ssm-manager/ssm-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manager/ssm-pojo/ssm-pojo.iml" filepath="$PROJECT_DIR$/ssm-manager/ssm-pojo/ssm-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm-manager/ssm-service-crud/ssm-service-crud.iml" filepath="$PROJECT_DIR$/ssm-manager/ssm-service-crud/ssm-service-crud.iml" />
+    </modules>
+  </component>
+</project>
